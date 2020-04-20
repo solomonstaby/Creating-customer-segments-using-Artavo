@@ -1,7 +1,6 @@
 # Creating-Customer-Segments-with-Arvato
-Unsupervised Learning Project of Udacity Data Scientist Nanodegree
+Unsupervised Learning Project of Udacity intro to Machine Learning with Tensorflow Nanodegree
 
-[Medium post](https://medium.com/@joshua.chyeung/creating-customer-segments-with-arvato-263ce55b1447)
 
 ### Table of Contents
 
